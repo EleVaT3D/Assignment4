@@ -14,10 +14,14 @@ span{
 	background-color: #3D58A6;
 	font-size: 48px;
 	color: white;
+	margin-top: 200px;
+	margin-bottom: 200px;
 }
 ul{
+	display: inline-block;
 	list-style: none;
-	margin-top: 20px;
+	margin-top: 30px;
+	margin-bottom: 95px;
 }
 h1{	
 	color: #EE4036;
@@ -26,38 +30,55 @@ h1{
 h2{
 	color: #3D58A6;
 	font-size: 22px;
+	margin-top: 25px;
+	margin-bottom: 35px;
 }
 h3{
 	color: #3D58A6;
 }
 h4{
 	font-size: 20px;
+	margin-bottom: 40px;
 }
 footer{
 	width: 300px;
 	margin-top: 50px;
 }
+.ups-downs{
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+#div1{
+	color: #FFFFFF;
+	background-image: url(images4/img1.png);
+	background-repeat: no-repeat;
+	width: 1170px;
+	height: 460px;
+	margin-bottom: 70px;
+
+}
+#responsivewebdesign{
+	margin-top: 40px;
+}
+#appdevelopment{
+	vertical-align: top;
+	margin-top: 40px;
+}
 .div-pg2{
 		display: inline-block;
 		width: 1000px;
 }
-/*.img-pg2{
-	width: 200px;
+.img-pg2{
+	vertical-align: top;
 }
-*/
-/*.article-text{
-	display: inline-block;
+.article-text{
+	margin-top: 0px;
+	margin-bottom: 20px;
 }
-*/
 #pg3section{
 	background-color: #E6E6E6;
 	width: 1365px;
 	height: 570px;
-}
-#map{
-	display: inline-block;
-	margin-top: 30px;
-	margin-left: 30px;
 }
 #contact{
 	display: inline-block;
@@ -69,13 +90,7 @@ footer{
 .secondary{
 	color: #3D58A6;
 }
-#div1{
-	color: #FFFFFF;
-	background-image: url(images4/img1.png);
-	background-repeat: no-repeat;
-	width: 1170px;
-	height: 460px;
-}
+
 #blackp{
 	color: 000000;
 }
@@ -85,8 +100,12 @@ footer{
 #footeryoutube{
 	margin-left: 20px;
 }
+#footerfb{
+	margin-left: 15px;
+}
 #black{
 	color: #000000;
+	font-size: 30px;
 }
 #responsivewebdesign{
 	display: inline-block;
@@ -112,3 +131,19 @@ footer{
 	width: 200px;
 	margin-left: 20px;
 }
+
+#contacttext{
+	display: inline-block;
+}
+#googlemap{
+	display: inline-block;
+}
+
+/*.contact1{
+	color: #808080;
+	font-size: 16px;
+}
+.contact2{
+	display: inline-block;
+	width: 200px;
+}*/
